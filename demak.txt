@@ -1,0 +1,61 @@
+HOME
+PROFIL #
+    VISI MISI x
+
+LEMBAGA #
+    JAJARAN PENGURUS x
+    FASILITAS x
+
+RUANG MGMP #
+    GEDUNG DIKLAT - gedung pendidikan dan pelatihan x [fasilitas dan keterangan]
+    GEDUNG BLK - sama diatas x
+
+LEMBAGA #
+    MI #
+        ALQURAN HADIS
+            JAJARAN PENGURUS
+            PROGRAM KEGIATAN 
+            GALERI
+            PRODUCT
+                E-PRINT
+                DIGITAL
+        AQIDAH AKHLAQ
+        FIQIH
+        DLL-----
+    MTS
+    MA
+
+UNIT #
+    PENGEMBANGAN SDM #
+        JAJARAN PIMPINAN x
+        PROGRAM KEGIATAN
+        GALERI
+        PUBLIKASI
+    PENJAMIN MUTU #
+        JAJARAN KEPEMIMPINAN x
+        PROGRAM KEGIATAN
+        GALERI
+    BALAI LATIHAN KERJA #
+        JAJARAN KEPEMIMPINAN x
+        PROGRAM KEGIATAN ?? mungkin mirip dengan agenda
+        GALERI ?? mungkin mirip dengan agenda
+        INFORMASI ?? 
+
+INFORMASI #
+    BERITA x
+    PENGUMUMAN x
+    AGENDA x
+    BERANDA PERS x
+
+PUBLIKASI
+    EPRINTS 
+    DIGITAL LIBRARY ?? -> di umk membuat webnya sendiri
+    JURNAL -> open jurnal system
+
+KERJASAMA -> list kotak mirip jajaran kepemimpinan x
+    CV SAVARI
+    PT ERLANGGA
+    INTAN PARIWARA
+    BALAI DIKLAT KEAGMAAN SEMARANG
+    DLL
+

@@ -1,0 +1,4 @@
+jumat 
+sabtu 
+minggu 
+senin

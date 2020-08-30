@@ -1,0 +1,5 @@
+#pertanyaan
+
+- sistem digital library(digilib) , di umk buat pakai web sendiri kalau ini gimana
+- untuk mi/mts pakai subdomain seperti fakultas
+- data bisa dikirim kapan, [jajaran kepemimpinan, galeri, gedung diklat dll]

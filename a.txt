@@ -1,0 +1,4 @@
+home
+    https://flex.aplikko.com/page-builder/addons-list-2/slick-slider
+    https://flex.aplikko.com/page-builder/addons-list-1/image
+    https://flex.aplikko.com/page-builder/addons-list-1/animated-headlines
